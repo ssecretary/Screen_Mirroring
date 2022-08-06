@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseRatingBar">
+        <attr name="srb_numStars" format="integer" />
+        <attr name="srb_minimumStars" format="float" />
+        <attr name="srb_rating" format="float" />
+        <attr name="srb_starPadding" format="dimension" />
+        <attr name="srb_drawableEmpty" format="reference" />
+        <attr name="srb_drawableFilled" format="reference" />
+        <attr name="srb_isIndicator" format="boolean" />
+        <attr name="srb_scrollable" format="boolean" />
+        <attr name="srb_clickable" format="boolean" />
+        <attr name="srb_clearRatingEnabled" format="boolean" />
+        <attr name="srb_starWidth" format="dimension" />
+        <attr name="srb_starHeight" format="dimension" />
+        <attr name="srb_stepSize" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="FastScroller">
+
+        <attr name="hideScrollbar" format="boolean" />
+
+        <attr name="showBubble" format="boolean" />
+
+        <attr name="showTrack" format="boolean" />
+
+        <attr name="bubbleColor" format="color" />
+
+        <attr name="bubbleTextColor" format="color" />
+
+        <attr name="handleColor" format="color" />
+
+        <attr name="trackColor" format="color" />
+
+        <attr name="bubbleTextSize" format="dimension" />
+        <attr name="bubbleSize" format="enum">
+            <enum name="normal" value="0" />
+            <enum name="small" value="1" />
+        </attr>
+
+    </declare-styleable>
+
+    <declare-styleable name="CustomTextView">
+        <attr name="fontName" format="string" />
+    </declare-styleable>
+</resources>

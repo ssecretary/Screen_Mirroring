@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Podłącz urządzenie </string>
+    <string name="discription_of_screen_mirroring">Udostępnianie ekranu mobilnego do telewizora</string>
+
+    <string name="action_share"> Udostępnij teraz </string>
+    <string name="action_rate"> Oceń nas </string>
+    <string name="action_more_apps"> Więcej aplikacji </string>
+    <string name="action_privacy_policy"> Polityka prywatności </string>
+    <string name="action_about_us"> O nas </string>
+
+    <string name="action_next"> Dalej </string>
+    <string name="action_finish"> Zakończ </string>
+
+    <string name="title_how_to_use"> Jak używać </string>
+
+    <string name="help_1"> Upewnij się, że telefon i telewizor są połączone z tą samą siecią Wi-Fi. </string>
+    <string name="help_2"> Włącz „Miracast Display” na telewizorze i bezprzewodowy wyświetlacz w telefonie. </string>
+    <string name="help_3"> Kliknij przycisk „Podłącz urządzenie” i wybierz urządzenie, na którym chcesz wyświetlać ekran. </string>
+
+    <string name="title_cancel"> Anuluj </string>
+
+    <string name="title_give_five_star"> Daj nam 5 gwiazdek </string>
+    <string name="rate_us_discription_1"> czy mógłbyś poświęcić chwilę na ocenę? </string>
+    <string name="rate_us_discription_2"> To nie zajmie więcej niż minutę. </string>
+    <string name="action_change_language">Zmień język</string>
+    <string name="title_tv_cast">TV Cast</string>
+    <string name="discription_tv_cast">Upewnij się, że telefon i telewizor są podłączone do tej samej sieci Wi-Fi.</string>
+    <string name="stream_photos">Przesyłaj strumieniowo swoje zdjęcia</string>
+    <string name="stream_videos">Przesyłaj strumieniowo swoje filmy wideo</string>
+    <string name="stream_audios">Przesyłaj strumieniowo swoją muzykę</string>
+    <string name="title_photos">Zdjęcia</string>
+    <string name="title_videos">Filmy</string>
+    <string name="title_audios">Muzyka</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Błąd</string>
+    <string name="action_stop">Zatrzymaj</string>
+    <string name="video_error_media_load_timeout">Przekroczono limit czasu ładowania multimediów</string>
+    <string name="video_error_server_unaccessible">Serwer multimediów nie był osiągalny</string>
+    <string name="video_error_unknown_error">Nie udało się załadować wideo</string>
+    <string name="connection_temp_lost">Połączenie z urządzeniem przesyłającym zostało chwilowo utracone</string>
+    <string name="connection_recovered">Połączenie z urządzeniem przesyłającym zostało przywrócone</string>
+    <string name="connection_lost_retry">Połączenie z urządzeniem przesyłającym zostało tymczasowo utracone.         Aplikacja próbuje odzyskać połączenie, spróbuj ponownie później</string>
+    <string name="connection_lost">Brak połączenia z urządzeniem przesyłającym</string>
+    <string name="failed_to_perform_action">Przepraszamy, wystąpiły problemy podczas wykonywania żądanego zadania</string>
+    <string name="oops">Ups</string>
+    <string name="media_route_menu_title">Odtwórz na &#8230;</string>
+    <string name="transition_image">obraz-przejścia</string>
+    <string name="title_cast_devices">Urządzenia przesyłające</string>
+    <string name="title_serching_for_devices">Szukam urządzeń ...</string>
+    <string name="discription_of_serching_devices">Upewnij się, że telefon i urządzenie przesyłające są połączone z tą samą siecią Wi-Fi.</string>
+    <string name="device_disconnect_successfully">Urządzenie zostało pomyślnie odłączone</string>
+    <string name="device_connect_successfully">Urządzenie zostało podłączone pomyślnie</string>
+    <string name="stream_browser">Przesyłaj strumieniowo swoją sieć Web</string>
+    <string name="title_browser">Przeglądarka</string>
+    <string name="title_no_resource_found">Nie znaleziono zasobów</string>
+    <string name="discription_no_resource_found">Najpierw odtwórz wideo, a przycisk zasobów będzie dostępny po wykryciu zasobu.</string>
+    <string name="ads_powerd_by">Reklamy obsługiwane przez dublowanie ekranu</string>
+</resources>

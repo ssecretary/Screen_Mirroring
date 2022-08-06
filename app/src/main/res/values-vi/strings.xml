@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Kết nối thiết bị </string>
+    <string name="discription_of_screen_mirroring">Chia sẻ màn hình di động với TV</string>
+
+    <string name="action_share"> Chia sẻ ngay </string>
+    <string name="action_rate"> Đánh giá chúng tôi </string>
+    <string name="action_more_apps"> Ứng dụng khác </string>
+    <string name="action_privacy_policy"> Chính sách Bảo mật </string>
+    <string name="action_about_us"> Giới thiệu về chúng tôi </string>
+
+    <string name="action_next"> Tiếp theo </string>
+    <string name="action_finish"> Kết thúc </string>
+
+    <string name="title_how_to_use"> Cách sử dụng </string>
+
+    <string name="help_1"> Đảm bảo rằng điện thoại và TV của bạn được kết nối với cùng một Wi-Fi. </string>
+    <string name="help_2"> Bật "Màn hình Miracast" trên TV và Màn hình không dây trên điện thoại của bạn. </string>
+    <string name="help_3"> Nhấp vào nút "Kết nối thiết bị" và chọn thiết bị mà bạn muốn hiển thị màn hình. </string>
+
+    <string name="title_cancel"> Huỷ </string>
+
+    <string name="title_give_five_star"> Cung cấp cho chúng tôi 5 sao </string>
+    <string name="rate_us_discription_1"> bạn có phiền dành một chút thời gian để xếp hạng nó không? </string>
+    <string name="rate_us_discription_2"> Sẽ không mất quá một phút. </string>
+    <string name="action_change_language">Thay đổi ngôn ngữ</string>
+    <string name="title_tv_cast">Truyền hình</string>
+    <string name="discription_tv_cast">Hãy đảm bảo rằng điện thoại và Tv của bạn được kết nối với cùng một Mạng Wifi.</string>
+    <string name="stream_photos">Truyền trực tuyến ảnh của bạn</string>
+    <string name="stream_videos">Phát trực tuyến video của bạn</string>
+    <string name="stream_audios">Truyền trực tuyến nhạc của bạn</string>
+    <string name="title_photos">Ảnh</string>
+    <string name="title_videos">Video</string>
+    <string name="title_audios">Nhạc</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Lỗi</string>
+    <string name="action_stop">Dừng</string>
+    <string name="video_error_media_load_timeout">Đã hết thời gian tải phương tiện</string>
+    <string name="video_error_server_unaccessible">Không thể truy cập máy chủ phương tiện</string>
+    <string name="video_error_unknown_error">Không tải được video</string>
+    <string name="connection_temp_lost">Kết nối với thiết bị truyền tạm thời bị mất</string>
+    <string name="connection_recovered">Kết nối với thiết bị truyền được khôi phục</string>
+    <string name="connection_lost_retry">Kết nối với thiết bị truyền tạm thời bị mất.         Ứng dụng đang cố khôi phục kết nối, vui lòng thử lại sau</string>
+    <string name="connection_lost">Không tồn tại kết nối với thiết bị truyền</string>
+    <string name="failed_to_perform_action">Xin lỗi, đã gặp sự cố khi thực hiện tác vụ bạn muốn</string>
+    <string name="oops">Rất tiếc</string>
+    <string name="media_route_menu_title">Phát trên &#8230;</string>
+    <string name="transition_image">chuyển đổi-hình ảnh</string>
+    <string name="title_cast_devices">Thiết bị truyền</string>
+    <string name="title_serching_for_devices">Tìm kiếm thiết bị ...</string>
+    <string name="discription_of_serching_devices">Đảm bảo rằng điện thoại và thiết bị truyền của bạn được kết nối với cùng một WiFi.</string>
+    <string name="device_disconnect_successfully">Đã ngắt kết nối thành công thiết bị</string>
+    <string name="device_connect_successfully">Đã kết nối thành công thiết bị</string>
+    <string name="stream_browser">Phát trực tuyến web của bạn</string>
+    <string name="title_browser">Trình duyệt</string>
+    <string name="title_no_resource_found">Không tìm thấy tài nguyên nào</string>
+    <string name="discription_no_resource_found">​​Vui lòng phát video trước và nút tài nguyên sẽ khả dụng sau khi tài nguyên được phát hiện.</string>
+    <string name="ads_powerd_by">Quảng cáo được hỗ trợ bởi tính năng phản chiếu màn hình</string>
+</resources>

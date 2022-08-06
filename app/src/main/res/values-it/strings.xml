@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Collega dispositivo </string>
+    <string name="discription_of_screen_mirroring">Condivisione dello schermo mobile sulla TV</string>
+
+    <string name="action_share"> Condividi ora </string>
+    <string name="action_rate"> Valutaci </string>
+    <string name="action_more_apps"> Altre app </string>
+    <string name="action_privacy_policy"> Norme sulla privacy </string>
+    <string name="action_about_us"> Chi siamo </string>
+
+    <string name="action_next"> Avanti </string>
+    <string name="action_finish"> Fine </string>
+
+    <string name="title_how_to_use"> Come utilizzare </string>
+
+    <string name="help_1"> Assicurati che il telefono e la tv siano collegati allo stesso WiFi. </string>
+    <string name="help_2"> Abilita "Miracast Display" sulla TV e Wireless Display sul tuo telefono. </string>
+    <string name="help_3"> Fai clic sul pulsante "Collega dispositivo" e scegli il dispositivo su cui desideri visualizzare lo schermo. </string>
+
+    <string name="title_cancel"> Annulla </string>
+
+    <string name="title_give_five_star"> Dacci 5 stelle </string>
+    <string name="rate_us_discription_1"> ti dispiacerebbe dedicare un momento a valutarlo? </string>
+    <string name="rate_us_discription_2"> Non ci vorrà più di un minuto. </string>
+    <string name="action_change_language">Cambia lingua</string>
+    <string name="title_tv_cast">TV Cast</string>
+    <string name="discription_tv_cast">Assicurati che il telefono e la TV siano collegati alla stessa rete Wi-Fi.</string>
+    <string name="stream_photos">Trasmetti in streaming le tue foto</string>
+    <string name="stream_videos">Trasmetti i tuoi video</string>
+    <string name="stream_audios">Riproduci in streaming la tua musica</string>
+    <string name="title_photos">Foto</string>
+    <string name="title_videos">Video</string>
+    <string name="title_audios">Musica</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Errore</string>
+    <string name="action_stop">Interrompi</string>
+    <string name="video_error_media_load_timeout">Caricamento multimediale scaduto</string>
+    <string name="video_error_server_unaccessible">Il server multimediale non era raggiungibile</string>
+    <string name="video_error_unknown_error">Impossibile caricare il video</string>
+    <string name="connection_temp_lost">La connessione al dispositivo di trasmissione è temporaneamente interrotta</string>
+    <string name="connection_recovered">La connessione al dispositivo di trasmissione è stata ripristinata</string>
+    <string name="connection_lost_retry">La connessione al dispositivo di trasmissione è stata temporaneamente persa.         L\'applicazione sta tentando di ripristinare la connessione, riprova più tardi</string>
+    <string name="connection_lost">Nessuna connessione al dispositivo di trasmissione esistente</string>
+    <string name="failed_to_perform_action">Spiacenti, si sono verificati problemi durante l\'esecuzione dell\'attività desiderata</string>
+    <string name="oops">Oops</string>
+    <string name="media_route_menu_title">Riproduci su &#8230;</string>
+    <string name="transition_image">immagine-transizione</string>
+    <string name="title_cast_devices">Dispositivi di trasmissione</string>
+    <string name="title_serching_for_devices">Ricerca di dispositivi ...</string>
+    <string name="discription_of_serching_devices">Assicurati che il telefono e il dispositivo di trasmissione siano connessi allo stesso WiFi.</string>
+    <string name="device_disconnect_successfully">Dispositivo disconnesso correttamente</string>
+    <string name="device_connect_successfully">Dispositivo connesso correttamente</string>
+    <string name="stream_browser">Trasmetti in streaming il tuo Web</string>
+    <string name="title_browser">Browser</string>
+    <string name="title_no_resource_found">​​Nessuna risorsa trovata</string>
+    <string name="discription_no_resource_found">Riproduci prima il video e il pulsante delle risorse sarà disponibile dopo il rilevamento della risorsa.</string>
+    <string name="ads_powerd_by">Annunci basati su Screen Mirroring</string>
+</resources>

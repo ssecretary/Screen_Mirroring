@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring">Poveži uređaj</string>
+    <string name="discription_of_screen_mirroring">Mobilno dijeljenje zaslona na TV-u</string>
+
+    <string name="action_share">Podijeli sada</string>
+    <string name="action_rate">Ocijenite nas</string>
+    <string name="action_more_apps">Više aplikacija</string>
+    <string name="action_privacy_policy">Pravila o privatnosti</string>
+    <string name="action_about_us">O nama</string>
+
+    <string name="action_next">Dalje</string>
+    <string name="action_finish">Završi</string>
+
+    <string name="title_how_to_use">Kako koristiti</string>
+
+    <string name="help_1">Provjerite jesu li vaš telefon i tv povezani na isti WiFi.</string>
+    <string name="help_2">Omogućite "Miracast zaslon" na televizoru i bežični zaslon na telefonu.</string>
+    <string name="help_3">Kliknite gumb "Poveži uređaj" i odaberite svoj uređaj na kojem želite prikazati zaslon.</string>
+
+    <string name="title_cancel">Otkaži</string>
+
+    <string name="title_give_five_star">Dajte nam 5 zvjezdica</string>
+    <string name="rate_us_discription_1">hoćete li iskoristiti trenutak da biste je ocijenili?</string>
+    <string name="rate_us_discription_2">Neće trebati više od minute.</string>
+    <string name="action_change_language">Promijeni jezik</string>
+    <string name="title_tv_cast">TV uloga</string>
+    <string name="discription_tv_cast">Provjerite jesu li vaš telefon i televizor povezani na istu Wifi mrežu.</string>
+    <string name="stream_photos">Struji svoje fotografije</string>
+    <string name="stream_videos">Struji svoje videozapise</string>
+    <string name="stream_audios">Struji svoju glazbu</string>
+    <string name="title_photos">Fotografije</string>
+    <string name="title_videos">Videozapisi</string>
+    <string name="title_audios">Glazba</string>
+    <string name="action_ok">U redu</string>
+    <string name="action_error">Pogreška</string>
+    <string name="action_stop">Zaustavi</string>
+    <string name="video_error_media_load_timeout">Isteklo je vrijeme učitavanja medija</string>
+    <string name="video_error_server_unaccessible">Medijski poslužitelj nije bio dostupan</string>
+    <string name="video_error_unknown_error">Učitavanje videozapisa nije uspjelo</string>
+    <string name="connection_temp_lost">Veza s uređajem za emitiranje privremeno se gubi</string>
+    <string name="connection_recovered">Obnovljena je veza s uređajem za emitiranje</string>
+    <string name="connection_lost_retry">Privremeno je izgubljena veza s uređajem za emitiranje.         Aplikacija pokušava oporaviti vezu, pokušajte ponovo kasnije</string>
+    <string name="connection_lost">Ne postoji veza s uređajem za emitiranje</string>
+    <string name="failed_to_perform_action">Žao nam je, naišli smo na probleme pri izvršavanju zadatka koji ste željeli</string>
+    <string name="oops">Ups</string>
+    <string name="media_route_menu_title">Reprodukuj na &#8230;</string>
+    <string name="transition_image">slika prijelaza</string>
+    <string name="title_cast_devices">Uređaji za emitiranje</string>
+    <string name="title_serching_for_devices">Traženje uređaja ...</string>
+    <string name="discription_of_serching_devices">Provjerite jesu li vaš telefon i uređaj za emitiranje povezani na isti WiFi.</string>
+    <string name="device_disconnect_successfully">Uređaj je uspješno prekinut</string>
+    <string name="device_connect_successfully">Uređaj je uspješno povezan</string>
+    <string name="stream_browser">Struji svoj web</string>
+    <string name="title_no_resource_found">Nisu pronađeni resursi</string>
+    <string name="title_browser">Preglednik</string>
+    <string name="discription_no_resource_found">Prvo reproducirajte videozapis, a gumb za resurse bit će dostupan nakon otkrivanja resursa.</string>
+    <string name="ads_powerd_by">Oglasi Pokreće Zrcaljenje zaslona</string>
+</resources>

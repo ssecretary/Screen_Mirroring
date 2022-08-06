@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring">Sluit apparaat aan</string>
+    <string name="discription_of_screen_mirroring">Mobiel scherm delen op tv</string>
+
+    <string name="action_share">Nu delen</string>
+    <string name="action_rate">Beoordeel ons</string>
+    <string name="action_more_apps">Meer apps</string>
+    <string name="action_privacy_policy">Privacybeleid</string>
+    <string name="action_about_us">Over ons</string>
+
+    <string name="action_next">Volgende</string>
+    <string name="action_finish">Voltooien</string>
+
+    <string name="title_how_to_use">Hoe te gebruiken</string>
+
+    <string name="help_1">Zorg ervoor dat je telefoon en tv zijn verbonden met dezelfde wifi.</string>
+    <string name="help_2">Schakel "Miracast Display" in op uw tv en Wireless Display op uw telefoon.</string>
+    <string name="help_3">Klik op de knop "Apparaat verbinden" en kies uw apparaat waarop u uw scherm wilt weergeven.</string>
+
+    <string name="title_cancel">Annuleren</string>
+
+    <string name="title_give_five_star">Geef ons 5-sterren</string>
+    <string name="rate_us_discription_1">zou je het erg vinden om even de tijd te nemen om het te beoordelen?</string>
+    <string name="rate_us_discription_2">Het duurt niet langer dan een minuut.</string>
+    <string name="action_change_language">Verander taal</string>
+    <string name="title_tv_cast">Tv-cast</string>
+    <string name="discription_tv_cast">Zorg ervoor dat uw telefoon en tv zijn verbonden met hetzelfde wifi-netwerk.</string>
+    <string name="stream_photos">Stream je foto\'</string>
+    <string name="stream_videos">Stream je video\'s</string>
+    <string name="stream_audios">Stream je muziek</string>
+    <string name="title_photos">Foto\'s</string>
+    <string name="title_videos">Video\'s</string>
+    <string name="title_audios">Muziek</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Fout</string>
+    <string name="action_stop">Stop</string>
+    <string name="video_error_media_load_timeout">Time-out bij laden van media</string>
+    <string name="video_error_server_unaccessible">Mediaserver was niet bereikbaar</string>
+    <string name="video_error_unknown_error">Kan video niet laden</string>
+    <string name="connection_temp_lost">Verbinding met het cast-apparaat is tijdelijk verbroken</string>
+    <string name="connection_recovered">Verbinding met het Cast-apparaat is herstel</string>
+    <string name="connection_lost_retry">De verbinding met het cast-apparaat is tijdelijk verbroken.         De toepassing probeert de verbinding te herstellen. Probeer het later opnieuw</string>
+    <string name="connection_lost">Er bestaat geen verbinding met het cast-apparaat</string>
+    <string name="failed_to_perform_action">Sorry, ik kwam problemen tegen bij het uitvoeren van de gewenste taak</string>
+    <string name="oops">Oeps</string>
+    <string name="media_route_menu_title">Speel af op &#8230;</string>
+    <string name="transition_image">transition-image</string>
+    <string name="title_cast_devices">Cast-apparaten</string>
+    <string name="title_serching_for_devices">Zoeken naar apparaten ...</string>
+    <string name="discription_of_serching_devices">Zorg ervoor dat je telefoon en Cast-apparaat zijn verbonden met dezelfde wifi.</string>
+    <string name="device_disconnect_successfully">Apparaat succesvol verbroken</string>
+    <string name="device_connect_successfully">Apparaat succesvol verbonden</string>
+    <string name="stream_browser">Stream uw web</string>
+    <string name="title_browser">Browser</string>
+    <string name="title_no_resource_found">Geen bronnen gevonden</string>
+    <string name="discription_no_resource_found">Speel de video eerst af, en de bronnenknop komt beschikbaar nadat de bron is gedetecteerd.</string>
+    <string name="ads_powerd_by">Advertenties mogelijk gemaakt door Screen Mirroring</string>
+</resources>

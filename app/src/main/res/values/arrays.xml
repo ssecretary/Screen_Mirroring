@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="drawer_title">
+        <item>@string/title_how_to_use</item>
+        <item>@string/action_change_language</item>
+        <item>@string/action_share</item>
+        <item>@string/action_rate</item>
+        <item>@string/action_more_apps</item>
+        <item>@string/action_privacy_policy</item>
+        <item>@string/action_about_us</item>
+    </string-array>
+
+    <array name="drawer_icon">
+        <item>@drawable/ic_help</item>
+        <item>@drawable/ic_change_language</item>
+        <item>@drawable/ic_share</item>
+        <item>@drawable/ic_rate_us</item>
+        <item>@drawable/ic_more</item>
+        <item>@drawable/ic_privacy_policy</item>
+        <item>@drawable/ic_about_us</item>
+    </array>
+
+    <string-array name="play_back_speed">
+        <item>0.25</item>
+        <item>0.50</item>
+        <item>0.75</item>
+        <item>1</item>
+        <item>1.25</item>
+        <item>1.50</item>
+        <item>1.75</item>
+        <item>2</item>
+    </string-array>
+
+</resources>

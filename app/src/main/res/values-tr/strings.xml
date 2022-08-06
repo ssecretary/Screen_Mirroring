@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Cihazı bağlayın </string>
+    <string name="discription_of_screen_mirroring">TV\'de mobil ekran paylaşımı</string>
+
+    <string name="action_share"> Şimdi Paylaş </string>
+    <string name="action_rate"> Bizi değerlendirin </string>
+    <string name="action_more_apps"> Diğer Uygulamalar </string>
+    <string name="action_privacy_policy"> Gizlilik Politikası </string>
+    <string name="action_about_us"> Hakkımızda </string>
+
+    <string name="action_next"> Sonraki </string>
+    <string name="action_finish"> Bitir </string>
+
+    <string name="title_how_to_use"> Nasıl kullanılır </string>
+
+    <string name="help_1"> Telefonunuzun ve televizyonunuzun aynı WiFi\'ye bağlı olduğundan emin olun. </string>
+    <string name="help_2"> TV\'nizdeki "Miracast Ekranını" ve telefonunuzdaki Kablosuz Ekranı etkinleştirin. </string>
+    <string name="help_3"> "Cihazı bağla" düğmesini tıklayın ve ekranınızı göstermek istediğiniz cihazınızı seçin. </string>
+
+    <string name="title_cancel"> İptal </string>
+
+    <string name="title_give_five_star"> Bize 5 Yıldız Verin </string>
+    <string name="rate_us_discription_1"> değerlendirmek için bir dakikanızı ayırır mısınız? </string>
+    <string name="rate_us_discription_2"> Bir dakikadan fazla sürmez. </string>
+    <string name="action_change_language">Dili değiştir</string>
+    <string name="title_tv_cast">TV Yayını</string>
+    <string name="discription_tv_cast">Lütfen telefonunuzun ve Tv\'nizin aynı Wifi Ağına bağlı olduğundan emin olun.</string>
+    <string name="stream_photos">Fotoğraflarınızı Yayınlayın</string>
+    <string name="stream_videos">Videolarınızı Canlı Akışa Alın</string>
+    <string name="stream_audios">Müziğinizi Dinleyin</string>
+    <string name="title_photos">Fotoğraflar</string>
+    <string name="title_videos">Videolar</string>
+    <string name="title_audios">Müzik</string>
+    <string name="action_ok">Tamam</string>
+    <string name="action_error">Hata</string>
+    <string name="action_stop">Durdur</string>
+    <string name="video_error_media_load_timeout">Medya yükleme zaman aşımına uğradı</string>
+    <string name="video_error_server_unaccessible">Medya sunucusuna erişilemedi</string>
+    <string name="video_error_unknown_error">Video yüklenemedi</string>
+    <string name="connection_temp_lost">Yayın cihazıyla bağlantı geçici olarak kesildi</string>
+    <string name="connection_recovered">Yayın cihazıyla bağlantı kurtarıldı</string>
+    <string name="connection_lost_retry">Yayın cihazıyla bağlantı geçici olarak kesildi.         Uygulama bağlantıyı kurtarmaya çalışıyor, lütfen daha sonra tekrar deneyin</string>
+    <string name="connection_lost">Yayın cihazıyla bağlantı yok</string>
+    <string name="failed_to_perform_action">Üzgünüz, istediğiniz görevi yerine getirirken sorunlarla karşılaşıldı</string>
+    <string name="oops">Hata</string>
+    <string name="media_route_menu_title">Oynat &#8230;</string>
+    <string name="transition_image">geçiş resmi</string>
+    <string name="title_cast_devices">Cihazları Yayınla</string>
+    <string name="title_serching_for_devices">Cihaz aranıyor ...</string>
+    <string name="discription_of_serching_devices">Telefonunuzun ve yayın cihazınızın aynı WiFi ağına bağlı olduğundan emin olun.</string>
+    <string name="device_disconnect_successfully">Cihazın bağlantısı başarıyla kesildi</string>
+    <string name="device_connect_successfully">Cihaz başarıyla bağlandı</string>
+    <string name="stream_browser">Web\'inizde Akış Yapın</string>
+    <string name="title_browser">Tarayıcı</string>
+    <string name="title_no_resource_found">Kaynak Bulunamadı</string>
+    <string name="discription_no_resource_found">​​Lütfen önce videoyu oynatın, kaynak algılandıktan sonra kaynaklar düğmesi kullanılabilir olacaktır.</string>
+    <string name="ads_powerd_by">Ekran Yansıtma ile Güçlendirilen Reklamlar</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Подключить устройство </string>
+    <string name="discription_of_screen_mirroring">Мобильный показ экрана на ТВ</string>
+
+    <string name="action_share"> Поделиться сейчас </string>
+    <string name="action_rate"> Оцените нас </string>
+    <string name="action_more_apps"> Другие приложения </string>
+    <string name="action_privacy_policy"> Политика конфиденциальности </string>
+    <string name="action_about_us"> О нас </string>
+
+    <string name="action_next"> Далее </string>
+    <string name="action_finish"> Готово </string>
+
+    <string name="title_how_to_use"> Как использовать </string>
+
+    <string name="help_1"> Убедитесь, что ваш телефон и телевизор подключены к одной сети Wi-Fi. </string>
+    <string name="help_2"> Включите "Miracast Display" на телевизоре и беспроводной дисплей на телефоне. </string>
+    <string name="help_3"> Нажмите кнопку «Подключить устройство» и выберите устройство, на котором вы хотите отображать свой экран. </string>
+
+    <string name="title_cancel"> Отменить </string>
+
+    <string name="title_give_five_star"> Дайте нам 5 звезд </string>
+    <string name="rate_us_discription_1"> не могли бы вы потратить немного времени, чтобы оценить его? </string>
+    <string name="rate_us_discription_2"> Это не займет больше минуты. </string>
+    <string name="action_change_language">" Изменить язык"</string>
+    <string name="title_tv_cast">ТВ-трансляция</string>
+    <string name="discription_tv_cast">Убедитесь, что ваш телефон и телевизор подключены к одной и той же сети Wi-Fi.</string>
+    <string name="stream_photos">Транслируйте свои фотографии</string>
+    <string name="stream_videos">Потоковое видео</string>
+    <string name="stream_audios">Слушайте музыку</string>
+    <string name="title_photos">Фотографии</string>
+    <string name="title_videos">Видео</string>
+    <string name="title_audios">Музыка</string>
+    <string name="action_ok">ОК</string>
+    <string name="action_error">Ошибка</string>
+    <string name="action_stop">Остановить</string>
+    <string name="video_error_media_load_timeout">Истекло время загрузки мультимедиа</string>
+    <string name="video_error_server_unaccessible">Медиа-сервер недоступен</string>
+    <string name="video_error_unknown_error">Не удалось загрузить видео</string>
+    <string name="connection_temp_lost">Подключение к устройству трансляции временно потеряно</string>
+    <string name="connection_recovered">Соединение с устройством трансляции восстановлено</string>
+    <string name="connection_lost_retry">Подключение к устройству трансляции временно потеряно.         Приложение пытается восстановить соединение, повторите попытку позже</string>
+    <string name="connection_lost">Нет подключения к устройству трансляции</string>
+    <string name="failed_to_perform_action">Извините, при выполнении нужной задачи возникли проблемы</string>
+    <string name="oops">Ой</string>
+    <string name="media_route_menu_title">Воспроизвести на &#8230;</string>
+    <string name="transition_image">переходное изображение</string>
+    <string name="title_cast_devices">Устройства трансляции</string>
+    <string name="title_serching_for_devices">Поиск устройств ...</string>
+    <string name="discription_of_serching_devices">Убедитесь, что ваш телефон и устройство для трансляции подключены к одной сети Wi-Fi.</string>
+    <string name="device_disconnect_successfully">Устройство успешно отключено</string>
+    <string name="device_connect_successfully">Устройство успешно подключено</string>
+    <string name="stream_browser">Потоковое воспроизведение в Интернете</string>
+    <string name="title_browser">Браузер</string>
+    <string name="title_no_resource_found">Ресурсы не найдены</string>
+    <string name="discription_no_resource_found">Сначала воспроизведите видео, и кнопка ресурсов будет доступна после обнаружения ресурса.</string>
+    <string name="ads_powerd_by">Реклама на основе Screen Mirroring</string>
+</resources>

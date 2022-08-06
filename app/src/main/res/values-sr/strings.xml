@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen Mirroring</string>
+
+    <string name="title_screen_mirroring">Повежи уређај</string>
+    <string name="discription_of_screen_mirroring">Мобилно дељење екрана на ТВ-у</string>
+
+    <string name="action_share">Поделите одмах</string>
+    <string name="action_rate">Оцените нас</string>
+    <string name="action_more_apps">Још апликација</string>
+    <string name="action_privacy_policy">Политика приватности</string>
+    <string name="action_about_us">О нама</string>
+
+    <string name="action_next">Даље</string>
+    <string name="action_finish">Заврши</string>
+
+    <string name="title_how_to_use">Како користити</string>
+
+    <string name="help_1">Проверите да ли су ваш телефон и ТВ повезани на исти ВиФи.</string>
+    <string name="help_2">Омогућите „Мирацаст екран“ на телевизору и бежични екран на телефону.</string>
+    <string name="help_3">Кликните дугме „Повежи уређај“ и одаберите свој уређај на којем желите да се приказује ваш екран.</string>
+
+    <string name="title_cancel">Откажи</string>
+
+    <string name="title_give_five_star">Дајте нам 5 звездица</string>
+    <string name="rate_us_discription_1">да ли бисте могли да издвојите тренутак да је оцените?</string>
+    <string name="rate_us_discription_2">Неће трајати више од једног минута.</string>
+    <string name="action_change_language">Промени језик</string>
+    <string name="title_tv_cast">ТВ улога</string>
+    <string name="discription_tv_cast">Уверите се да су ваш телефон и ТВ повезани на исту Вифи мрежу.</string>
+    <string name="stream_photos">Стримујте своје фотографије</string>
+    <string name="stream_videos">Стримујте своје видео записе</string>
+    <string name="stream_audios">Стримујте музику</string>
+    <string name="title_photos">Фотографије</string>
+    <string name="title_videos">Видео снимци</string>
+    <string name="title_audios">Музика</string>
+    <string name="action_ok">У реду</string>
+    <string name="action_error">Грешка</string>
+    <string name="action_stop">Заустави</string>
+    <string name="video_error_media_load_timeout">Време учитавања медија је истекло</string>
+    <string name="video_error_server_unaccessible">Медијски сервер није био доступан</string>
+    <string name="video_error_unknown_error">Учитавање видео записа није успело</string>
+    <string name="connection_temp_lost">Веза са уређајем за пребацивање је привремено изгубљена</string>
+    <string name="connection_recovered">Опорави се веза са уређајем за ливење</string>
+    <string name="connection_lost_retry">Веза са уређајем за пребацивање је привремено изгубљена.         Апликација покушава да опорави везу, покушајте поново касније</string>
+    <string name="connection_lost">Не постоји веза са уређајем за пребацивање</string>
+    <string name="failed_to_perform_action">Жао нам је, налетели смо на проблеме приликом извршавања задатка који сте желели</string>
+    <string name="oops">Упс</string>
+    <string name="media_route_menu_title">Репродукуј на &#8230;</string>
+    <string name="transition_image">слика преласка</string>
+    <string name="title_cast_devices">Уређаји за пребацивање</string>
+    <string name="title_serching_for_devices">Тражење уређаја ...</string>
+    <string name="discription_of_serching_devices">Уверите се да су ваш телефон и уређај за пребацивање повезани на исти ВиФи.</string>
+    <string name="device_disconnect_successfully">Уређај је успешно прекинут</string>
+    <string name="device_connect_successfully">Уређај је успешно повезан</string>
+    <string name="stream_browser">Стримујте свој веб</string>
+    <string name="title_browser">Прегледач</string>
+    <string name="title_no_resource_found">Нису пронађени ресурси</string>
+    <string name="discription_no_resource_found">Прво пустите видео, а дугме ресурса биће доступно након откривања ресурса.</string>
+    <string name="ads_powerd_by">Огласи Покреће Сцреен Мирроринг</string>
+</resources>

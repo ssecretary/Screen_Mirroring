@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_change_language">Baguhin ang Wika</string>
+    <string name="title_tv_cast">TV Cast</string>
+    <string name="discription_tv_cast">Mangyaring tiyaking nakakonekta ang iyong telepono at Tv sa parehong Wifi Network.</string>
+    <string name="stream_photos">I-stream ang Iyong Mga Larawan</string>
+    <string name="stream_videos">I-stream ang Iyong Mga Video</string>
+    <string name="stream_audios">I-stream ang Iyong Musika</string>
+    <string name="title_photos">Mga Larawan</string>
+    <string name="title_videos">Mga Video</string>
+    <string name="title_audios">Musika</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Error</string>
+    <string name="action_stop">Itigil ang</string>
+    <string name="video_error_media_load_timeout">Nag-time out ang paglo-load ng media</string>
+    <string name="video_error_server_unaccessible">Hindi maabot ang media server</string>
+    <string name="video_error_unknown_error">Nabigong i-load ang video</string>
+    <string name="connection_temp_lost">Pansamantalang nawala ang koneksyon sa cast device</string>
+    <string name="connection_recovered">Nakakonekta ang koneksyon sa cast device</string>
+    <string name="connection_lost_retry">Pansamantalang nawala ang koneksyon sa cast device.         Sinusubukan ng application na mabawi ang koneksyon, pakisubukan ulit sa ibang pagkakataon</string>
+    <string name="connection_lost">Walang koneksyon sa cast device na mayroon</string>
+    <string name="failed_to_perform_action">Paumanhin, napunta sa mga isyu sa pagganap ng gawain na nais mo</string>
+    <string name="oops">Oops</string>
+    <string name="media_route_menu_title">I-play sa &#8230;</string>
+    <string name="transition_image">paglipat-imahe</string>
+    <string name="title_cast_devices">Mga Device sa Cast</string>
+    <string name="title_serching_for_devices">Naghahanap ng mga aparato ...</string>
+    <string name="discription_of_serching_devices">Tiyaking nakakonekta ang iyong telepono at cast device sa parehong WiFi.</string>
+    <string name="device_disconnect_successfully">Matagumpay na nakakonekta ang aparato</string>
+    <string name="device_connect_successfully">Matagumpay na nakakonekta ang aparato</string>
+    <string name="stream_browser">I-stream ang Iyong Web</string>
+    <string name="title_browser">Browser</string>
+    <string name="title_no_resource_found">​​Walang Nahanap na Mga Mapagkukunan</string>
+    <string name="discription_no_resource_found">Mangyaring i-play muna ang video, at magagamit ang pindutan ng mga mapagkukunan pagkatapos makita ang mapagkukunan.</string>
+    <string name="ads_powerd_by">Ang Mga Ad ay Pinapagana ng Screen Mirroring</string>
+</resources>

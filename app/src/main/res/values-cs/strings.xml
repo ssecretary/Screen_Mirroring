@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring">Připojit zařízení</string>
+    <string name="discription_of_screen_mirroring">Mobilní sdílení obrazovky s televizí</string>
+
+    <string name="action_share">Sdílet hned</string>
+    <string name="action_rate">Ohodnoťte nás</string>
+    <string name="action_more_apps">Další aplikace</string>
+    <string name="action_privacy_policy">Zásady ochrany osobních údajů</string>
+    <string name="action_about_us">O nás</string>
+
+    <string name="action_next">Další</string>
+    <string name="action_finish">Dokončit</string>
+
+    <string name="title_how_to_use">Jak používat</string>
+
+    <string name="help_1">Ujistěte se, že váš telefon a tv jsou připojeny ke stejné WiFi.</string>
+    <string name="help_2">Povolte „Miracast Display“ na televizi a bezdrátový displej na telefonu.</string>
+    <string name="help_3">Klikněte na tlačítko „Připojit zařízení“ a vyberte zařízení, na kterém chcete zobrazovat svou obrazovku.</string>
+
+    <string name="title_cancel">Zrušit</string>
+
+    <string name="title_give_five_star">Dejte nám 5 hvězdiček</string>
+    <string name="rate_us_discription_1">vadilo by vám to chvíli hodnotit?</string>
+    <string name="rate_us_discription_2">Nebude to trvat déle než minutu.</string>
+    <string name="action_change_language">" Změnit jazyk"</string>
+    <string name="discription_tv_cast">Ujistěte se, že váš telefon a televize jsou připojeny ke stejné síti Wifi.</string>
+    <string name="title_tv_cast">TV Cast</string>
+    <string name="stream_photos">Streamujte své fotografie</string>
+    <string name="stream_videos">Streamujte svá videa</string>
+    <string name="stream_audios">Streamujte svou hudbu</string>
+    <string name="title_photos">Fotografie</string>
+    <string name="title_videos">Videa</string>
+    <string name="title_audios">Hudba</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Chyba</string>
+    <string name="action_stop">Zastavit</string>
+    <string name="video_error_media_load_timeout">Vypršel časový limit načítání médií</string>
+    <string name="video_error_server_unaccessible">Mediální server nebyl dosažitelný</string>
+    <string name="video_error_unknown_error">Video se nepodařilo načíst</string>
+    <string name="connection_temp_lost">Připojení k zařízení pro odesílání bylo dočasně ztraceno</string>
+    <string name="connection_recovered">Připojení k zařízení pro odesílání bylo obnoveno</string>
+    <string name="connection_lost_retry">Připojení k zařízení pro odesílání bylo dočasně ztraceno.         Aplikace se pokouší obnovit připojení, zkuste to znovu později</string>
+    <string name="connection_lost">Neexistuje žádné připojení k zařízení pro odesílání</string>
+    <string name="failed_to_perform_action">Omlouváme se, narazili jste na problémy s prováděním požadovaného úkolu</string>
+    <string name="oops">Jejda</string>
+    <string name="media_route_menu_title">Hrajte na &#8230;</string>
+    <string name="transition_image">transition-imag</string>
+    <string name="title_cast_devices">Odeslat zařízení</string>
+    <string name="title_serching_for_devices">Hledání zařízení ...</string>
+    <string name="discription_of_serching_devices">Ujistěte se, že váš telefon a zařízení pro odesílání jsou připojeny ke stejné WiFi.</string>
+    <string name="device_disconnect_successfully">Zařízení bylo úspěšně odpojeno</string>
+    <string name="device_connect_successfully">Zařízení bylo úspěšně připojeno</string>
+    <string name="stream_browser">Streamujte svůj web</string>
+    <string name="title_browser">Prohlížeč</string>
+    <string name="title_no_resource_found">Nebyly nalezeny žádné zdroje</string>
+    <string name="discription_no_resource_found">Nejprve přehrajte video a po zjištění zdroje bude k dispozici tlačítko zdrojů</string>
+    <string name="ads_powerd_by">Reklamy založené na zrcadlení obrazovky</string>
+</resources>

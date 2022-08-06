@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">"Screen Mirroring"</string>
+
+    <!--    <string name="app_id" translatable="false">CC1AD845</string>-->
+    <string name="app_id" translatable="false">5E62C775</string>
+
+    <!-- Test Ad id-->
+    <string name="interstitial_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="native_id" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="app_open_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- Live Ad id-->
+    <!--<string name="interstitial_id" translatable="false">ca-app-pub-2954385602054263/6792318069</string>
+    <string name="banner_id" translatable="false">ca-app-pub-2954385602054263/9174938828</string>
+    <string name="native_id" translatable="false">ca-app-pub-2954385602054263/1539991386</string>
+    <string name="app_open_id" translatable="false">ca-app-pub-2954385602054263/6809448176</string>
+    <string name="admob_app_id" translatable="false">ca-app-pub-2954385602054263~7612228108</string>-->
+
+    <string name="app_metrica" translatable="false">742e9f20-e0dd-4920-ad82-a12f5f04d21d</string>
+
+    <string name="ads_powerd_by">Ads Powered by Screen Mirroring</string>
+
+    <string name="title_screen_mirroring">Screen Mirroring</string>
+    <string name="discription_of_screen_mirroring">Mobile screen sharing to TV</string>
+
+    <string name="action_share">Share Now</string>
+    <string name="action_rate">Rate us</string>
+    <string name="action_more_apps">More Apps</string>
+    <string name="action_privacy_policy">Privacy Policy</string>
+    <string name="action_about_us">About us</string>
+    <string name="action_change_language">Change Language</string>
+
+    <string name="action_next">Next</string>
+    <string name="action_finish">Finish</string>
+
+    <string name="title_how_to_use">How to use</string>
+
+    <string name="title_tv_cast">TV Cast</string>
+    <string name="discription_tv_cast">Please make sure that your phone and Tv are connected to the same Wifi Network.</string>
+
+    <string name="stream_photos">Cast Local Photos</string>
+    <string name="stream_videos">Cast Local Videos</string>
+    <string name="stream_audios">Cast Local Music</string>
+    <string name="stream_browser">Cast online videos to TV</string>
+
+    <string name="title_photos">Photos</string>
+    <string name="title_videos">Videos</string>
+    <string name="title_audios">Music</string>
+    <string name="title_browser">Browser</string>
+
+    <string name="title_youtube" translatable="false">You Tube</string>
+    <string name="title_buzz_video" translatable="false">Buzzvideo</string>
+    <string name="title_google" translatable="false">Google</string>
+    <string name="title_imdb" translatable="false">IMDB</string>
+    <string name="title_vimeo" translatable="false">Vimeo</string>
+    <string name="title_live_stream" translatable="false">Live Stream</string>
+    <string name="title_yahoo" translatable="false">Yahoo</string>
+
+    <string name="title_no_resource_found">No Resources Found</string>
+    <string name="discription_no_resource_found">Please play the video first, and resources button will be available after the resource detected.</string>
+
+    <string name="action_ok">OK</string>
+    <string name="action_error">Error</string>
+    <string name="action_stop">Stop</string>
+
+    <string name="action_mode">Mode</string>
+    <string name="action_queue">Queue</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_rewind">Rewind</string>
+    <string name="action_resolution">Resolution</string>
+    <string name="no_more">No More</string>
+    <string name="action_speed">Speed</string>
+    <string name="action_volume">Volume</string>
+
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_unaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="connection_temp_lost">Connection to the cast device is temporarily lost</string>
+    <string name="connection_recovered">Connection to the cast device is recovered</string>
+    <string name="connection_lost_retry">Connection to the cast device has been temporarily lost.
+        Application is trying to recover connection, please try again later
+    </string>
+    <string name="connection_lost">No connection to the cast device exist</string>
+    <string name="failed_to_perform_action">Sorry, ran into issues performing the task you wanted
+    </string>
+    <string name="oops">Oops</string>
+    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="transition_image">transition-image</string>
+
+    <string name="help_1">Make sure your phone and tv are connect to the same WiFi.</string>
+    <string name="help_2">Enable the "Miracast Display" on your TV and Wireless Display on your phone.</string>
+    <string name="help_3">Click the "Connect device" button and choose your device that you want to show your screen on.</string>
+
+    <string name="title_cancel">Cancel</string>
+
+    <string name="title_give_five_star">Give us 5-Star</string>
+    <string name="rate_us_discription_1">would you mind taking a moment to rate it?</string>
+    <string name="rate_us_discription_2">It won\'t take more than a minute.</string>
+
+    <string name="feedback_email" translatable="false">dreamapps80@gmail.com</string>
+
+    <string name="ad_attribution" translatable="false">Ad</string>
+    <string name="image_desc" translatable="false">Ad image</string>
+    <string name="icon_desc" translatable="false">Ad icon</string>
+
+    <string name="title_cast_devices">Cast Devices</string>
+    <string name="title_serching_for_devices">Searching for devices...</string>
+    <string name="discription_of_serching_devices">Make sure your phone and cast device are connected to same WiFi.</string>
+    <string name="device_disconnect_successfully">Device disconnected successfully</string>
+    <string name="device_connect_successfully">Device connected successfully</string>
+
+    <string name="font_josefin_sans_medium" translatable="false">proxima_nova_soft_bold.ttf</string>
+</resources>

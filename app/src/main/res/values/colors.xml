@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FFFFFF</color>
+    <color name="purple_700">#FFFFFF</color>
+    <color name="teal_200">#034eb9</color>
+    <color name="teal_700">#034eb9</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+
+    <color name="black_transparent">#80000000</color>
+    <color name="color_primary_transparent">#33034eb9</color>
+
+    <color name="colorRippleEffect">#bfc4c9</color>
+
+    <color name="md_divider_white">#10FFFFFF</color>
+    <color name="md_divider_black">#15000000</color>
+
+    <color name="week_color_gray">#808080</color>
+
+    <color name="color_gray">#A0A0A0</color>
+
+    <color name="mat_color">#262626</color>
+
+    <color name="md_grey_200">#EEEEEE</color>
+    <color name="md_grey_300">#E0E0E0</color>
+    <color name="md_grey_400">#BDBDBD</color>
+    <color name="md_grey_500">#9E9E9E</color>
+    <color name="md_grey_600">#757575</color>
+    <color name="md_grey_700">#616161</color>
+    <color name="md_grey_800">#424242</color>
+
+    <array name="array_dot_active">
+        <item>@color/teal_200</item>
+        <item>@color/teal_200</item>
+        <item>@color/teal_200</item>
+        <item>@color/teal_200</item>
+        <item>@color/teal_200</item>
+        <item>@color/teal_200</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/md_grey_500</item>
+        <item>@color/md_grey_500</item>
+        <item>@color/md_grey_500</item>
+        <item>@color/md_grey_500</item>
+        <item>@color/md_grey_500</item>
+        <item>@color/md_grey_500</item>
+    </array>
+</resources>

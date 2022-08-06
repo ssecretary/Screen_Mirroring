@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen Mirroring</string>
+
+    <string name="title_screen_mirroring"> Anslut enhet </string>
+    <string name="discription_of_screen_mirroring">Mobil skärmdelning till TV</string>
+
+    <string name="action_share"> Dela nu </string>
+    <string name="action_rate"> Betygsätt oss </string>
+    <string name="action_more_apps"> Fler appar </string>
+    <string name="action_privacy_policy"> Sekretesspolicy </string>
+    <string name="action_about_us"> Om oss </string>
+
+    <string name="action_next"> Nästa </string>
+    <string name="action_finish"> Slutför </string>
+
+    <string name="title_how_to_use"> Hur man använder </string>
+
+    <string name="help_1"> Se till att din telefon och tv är anslutna till samma WiFi. </string>
+    <string name="help_2"> Aktivera "Miracast Display" på din TV och Wireless Display på din telefon. </string>
+    <string name="help_3"> Klicka på knappen "Anslut enhet" och välj den enhet som du vill visa din skärm på. </string>
+
+    <string name="title_cancel"> Avbryt </string>
+
+    <string name="title_give_five_star"> Ge oss femstjärniga </string>
+    <string name="rate_us_discription_1"> har du något emot att ta en stund för att betygsätta det? </string>
+    <string name="rate_us_discription_2"> Det tar inte mer än en minut. </string>
+    <string name="action_change_language">" Ändra språk"</string>
+    <string name="title_tv_cast">TV-cast</string>
+    <string name="discription_tv_cast">Se till att din telefon och tv är anslutna till samma Wifi-nätverk.</string>
+    <string name="stream_photos">Strömma dina foton</string>
+    <string name="stream_videos">Strömma dina videor</string>
+    <string name="stream_audios">Ström din musik</string>
+    <string name="title_photos">Foton</string>
+    <string name="title_videos">Videor</string>
+    <string name="title_audios">Musik</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Fel</string>
+    <string name="action_stop">Stoppa</string>
+    <string name="video_error_media_load_timeout">Medieinläsning avbröts</string>
+    <string name="video_error_server_unaccessible">Mediaserver kunde inte nås</string>
+    <string name="video_error_unknown_error">Det gick inte att ladda videon</string>
+    <string name="connection_temp_lost">Anslutningen till cast-enheten förloras tillfälligt</string>
+    <string name="connection_recovered">Anslutning till cast-enheten återställs</string>
+    <string name="connection_lost_retry">Anslutningen till castenheten har förlorats tillfälligt.         Programmet försöker återställa anslutningen. Försök igen senare</string>
+    <string name="connection_lost">Det finns ingen anslutning till castenheten</string>
+    <string name="failed_to_perform_action">Tyvärr stötte på problem som utförde den uppgift du ville ha</string>
+    <string name="oops">Oj</string>
+    <string name="media_route_menu_title">Spela på &#8230;</string>
+    <string name="transition_image">övergångsbild</string>
+    <string name="title_cast_devices">Cast-enheter</string>
+    <string name="title_serching_for_devices">Söker efter enheter ...</string>
+    <string name="discription_of_serching_devices">Se till att din telefon och cast-enhet är anslutna till samma WiFi.</string>
+    <string name="device_disconnect_successfully">Enheten har kopplats bort</string>
+    <string name="device_connect_successfully">Enheten har anslutits framgångsrikt</string>
+    <string name="stream_browser">Strömma din webb</string>
+    <string name="title_browser">Webbläsare</string>
+    <string name="title_no_resource_found">Inga resurser hittades</string>
+    <string name="discription_no_resource_found">​​Spela först videon, och resursknappen kommer att finnas tillgänglig efter att resursen har upptäckts.</string>
+    <string name="ads_powerd_by">Annonser som drivs av skärmspegling</string>
+</resources>

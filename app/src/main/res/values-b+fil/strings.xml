@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Ikonekta ang aparato </string>
+    <string name="discription_of_screen_mirroring">Pagbabahagi ng mobile screen sa TV</string>
+
+    <string name="action_share"> Ibahagi Ngayon </string>
+    <string name="action_rate"> I-rate sa amin </string>
+    <string name="action_more_apps"> Marami pang Mga App </string>
+    <string name="action_privacy_policy"> Patakaran sa Pagkapribado </string>
+    <string name="action_about_us"> Tungkol sa amin </string>
+
+    <string name="action_next"> Susunod </string>
+    <string name="action_finish"> Tapusin </string>
+
+    <string name="title_how_to_use"> Paano gamitin ang </string>
+
+    <string name="help_1"> Tiyaking nakakonekta ang iyong telepono at tv sa iisang WiFi. </string>
+    <string name="help_2"> Paganahin ang "Miracast Display" sa iyong TV at Wireless Display sa iyong telepono. </string>
+    <string name="help_3"> I-click ang pindutang "Ikonekta ang aparato" at piliin ang iyong aparato kung saan mo nais ipakita ang iyong screen. </string>
+
+    <string name="title_cancel"> Kanselahin </string>
+
+    <string name="title_give_five_star"> Bigyan kami ng 5-Star </string>
+    <string name="rate_us_discription_1"> maisip mo bang maglaan ng ilang sandali upang i-rate ito? </string>
+    <string name="rate_us_discription_2"> Hindi aabutin ng higit sa isang minuto. </string>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="dots_height">36dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="normal_icon_size">48dp</dimen>
+
+    <dimen name="fastscroll_bubble_radius">44dp</dimen>
+    <dimen name="fastscroll_bubble_size">44dp</dimen>
+    <dimen name="fastscroll_bubble_text_size">16sp</dimen>
+    <dimen name="fastscroll_bubble_padding">14dp</dimen>
+
+    <dimen name="fastscroll_bubble_radius_small">32dp</dimen>
+    <dimen name="fastscroll_bubble_size_small">32dp</dimen>
+    <dimen name="fastscroll_bubble_text_size_small">12sp</dimen>
+    <dimen name="fastscroll_bubble_padding_small">6dp</dimen>
+
+    <dimen name="fastscroll_handle_height">40dp</dimen>
+    <dimen name="fastscroll_handle_width">10dp</dimen>
+    <dimen name="fastscroll_handle_radius">8dp</dimen>
+
+    <dimen name="fastscroll_track_width">1dp</dimen>
+
+    <dimen name="fastscroll_scrollbar_margin_top">8dp</dimen>
+    <dimen name="fastscroll_scrollbar_margin_bottom">8dp</dimen>
+    <dimen name="fastscroll_scrollbar_padding_start">8dp</dimen>
+    <dimen name="fastscroll_scrollbar_padding_end">8dp</dimen>
+</resources>

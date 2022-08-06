@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_screen_mirroring"> 장치 연결</string>
+    <string name="discription_of_screen_mirroring">TV로 모바일 화면 공유</string>
+
+    <string name="action_share"> 지금 공유</string>
+    <string name="action_rate"> 평가</string>
+    <string name="action_more_apps"> 기타 앱</string>
+    <string name="action_privacy_policy"> 개인 정보 보호 정책</string>
+    <string name="action_about_us"> 회사 소개</string>
+
+    <string name="action_next"> 다음</string>
+    <string name="action_finish"> 완료</string>
+
+    <string name="title_how_to_use"> 사용 방법</string>
+
+    <string name="help_1"> 휴대 전화와 TV가 동일한 Wi-Fi에 연결되어 있는지 확인하세요.</string>
+    <string name="help_2"> TV에서 "Miracast Display"를 활성화하고 휴대폰에서 무선 디스플레이를 활성화합니다.</string>
+    <string name="help_3"> "장치 연결"버튼을 클릭하고 화면을 표시 할 장치를 선택하십시오.</string>
+
+    <string name="title_cancel"> 취소</string>
+
+    <string name="title_give_five_star"> 별 5 개 제공</string>
+    <string name="rate_us_discription_1"> 잠시 시간을내어 평가 하시겠습니까?</string>
+    <string name="rate_us_discription_2"> 1 분 이상 걸리지 않습니다.</string>
+    <string name="app_name">"Screen Mirroring "</string>
+    <string name="action_change_language">언어 변경</string>
+    <string name="title_tv_cast">TV Cast</string>
+    <string name="discription_tv_cast">휴대 전화와 TV가 동일한 Wi-Fi 네트워크에 연결되어 있는지 확인하세요.</string>
+    <string name="stream_photos">사진 스트리밍</string>
+    <string name="stream_videos">비디오 스트리밍</string>
+    <string name="stream_audios">음악 스트리밍</string>
+    <string name="title_photos">사진</string>
+    <string name="title_videos">동영상</string>
+    <string name="title_audios">음악</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">오류</string>
+    <string name="action_stop">중지</string>
+    <string name="video_error_media_load_timeout">미디어로드 시간이 초과되었습니다.</string>
+    <string name="video_error_server_unaccessible">미디어 서버에 연결할 수 없음</string>
+    <string name="video_error_unknown_error">비디오를로드하지 못했습니다.</string>
+    <string name="connection_temp_lost">Cast 기기와의 연결이 일시적으로 끊어졌습니다.</string>
+    <string name="connection_recovered">Cast 기기에 대한 연결이 복구되었습니다.</string>
+    <string name="connection_lost_retry">Cast 기기에 대한 연결이 일시적으로 끊어졌습니다.         애플리케이션이 연결을 복구하려고합니다. 나중에 다시 시도하십시오.</string>
+    <string name="connection_lost">Cast 장치에 대한 연결이 없습니다.</string>
+    <string name="failed_to_perform_action">죄송합니다. 원하는 작업을 수행하는 데 문제가 발생했습니다.</string>
+    <string name="oops">죄송합니다</string>
+    <string name="media_route_menu_title">&#8230;에서 재생</string>
+    <string name="transition_image">전환 이미지</string>
+    <string name="title_cast_devices">캐스트 장치</string>
+    <string name="title_serching_for_devices">기기 검색 중 ...</string>
+    <string name="discription_of_serching_devices">휴대 전화와 Cast 기기가 동일한 Wi-Fi에 연결되어 있는지 확인하세요.</string>
+    <string name="device_disconnect_successfully">장치 연결 해제 성공</string>
+    <string name="device_connect_successfully">장치가 성공적으로 연결되었습니다.</string>
+    <string name="stream_browser">웹 스트리밍</string>
+    <string name="title_browser">브라우저</string>
+    <string name="title_no_resource_found">​​자원 없음</string>
+    <string name="discription_no_resource_found">먼저 동영상을 재생하면 리소스가 감지 된 후 리소스 버튼을 사용할 수 있습니다.</string>
+    <string name="ads_powerd_by">화면 미러링으로 구동되는 광고</string>
+</resources>

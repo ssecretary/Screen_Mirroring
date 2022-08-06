@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Connecter l\'appareil </string>
+    <string name="discription_of_screen_mirroring">Partage d\'écran mobile sur la télévision</string>
+
+    <string name="action_share"> Partager maintenant </string>
+    <string name="action_rate"> Évaluez-nous </string>
+    <string name="action_more_apps"> Plus d\'applications </string>
+    <string name="action_privacy_policy"> Politique de confidentialité </string>
+    <string name="action_about_us"> À propos de nous </string>
+
+    <string name="action_next"> Suivant </string>
+    <string name="action_finish"> Terminer </string>
+
+    <string name="title_how_to_use"> Comment utiliser </string>
+
+    <string name="help_1"> Assurez-vous que votre téléphone et votre téléviseur sont connectés au même Wi-Fi. </string>
+    <string name="help_2"> Activez "Miracast Display" sur votre téléviseur et sans fil sur votre téléphone. </string>
+    <string name="help_3"> Cliquez sur le bouton "Connecter l'appareil" et choisissez l\'appareil sur lequel vous souhaitez afficher votre écran. </string>
+
+    <string name="title_cancel"> Annuler </string>
+
+    <string name="title_give_five_star"> Donnez-nous 5 étoiles </string>
+    <string name="rate_us_discription_1"> pourriez-vous prendre un moment pour le noter? </string>
+    <string name="rate_us_discription_2"> Cela ne prendra pas plus d\'une minute. </string>
+    <string name="action_change_language">Changer de langue</string>
+    <string name="title_tv_cast">Diffusion TV</string>
+    <string name="discription_tv_cast">Veuillez vous assurer que votre téléphone et votre téléviseur sont connectés au même réseau Wifi.</string>
+    <string name="stream_photos">Diffusez vos photos en streaming</string>
+    <string name="stream_videos">Diffusez vos vidéos</string>
+    <string name="stream_audios">Diffusez votre musique</string>
+    <string name="title_photos">Photos</string>
+    <string name="title_videos">Vidéos</string>
+    <string name="title_audios">Musique</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Erreur</string>
+    <string name="action_stop">Arrêter</string>
+    <string name="video_error_media_load_timeout">Le chargement du média a expiré</string>
+    <string name="video_error_server_unaccessible">Le serveur multimédia n\'était pas accessible</string>
+    <string name="video_error_unknown_error">Échec du chargement de la vidéo</string>
+    <string name="connection_temp_lost">La connexion à l\'appareil de diffusion est temporairement perdue</string>
+    <string name="connection_recovered">La connexion à l\'appareil de diffusion est rétablie</string>
+    <string name="connection_lost_retry">La connexion au périphérique de diffusion a été temporairement perdue.         L\'application tente de récupérer la connexion, veuillez réessayer plus tard</string>
+    <string name="connection_lost">Aucune connexion au périphérique de diffusion n\'existe</string>
+    <string name="failed_to_perform_action">Désolé, nous avons rencontré des problèmes lors de l\'exécution de la tâche souhaitée</string>
+    <string name="oops">Oups</string>
+    <string name="media_route_menu_title">Jouer sur &#8230;</string>
+    <string name="transition_image">transition-image</string>
+    <string name="title_cast_devices">Appareils de diffusion</string>
+    <string name="title_serching_for_devices">Recherche d\'appareils ...</string>
+    <string name="discription_of_serching_devices">Assurez-vous que votre téléphone et votre appareil de diffusion sont connectés au même Wi-Fi.</string>
+    <string name="device_disconnect_successfully">Périphérique déconnecté avec succès</string>
+    <string name="device_connect_successfully">Appareil connecté avec succès</string>
+    <string name="stream_browser">Diffusez votre Web</string>
+    <string name="title_browser">Navigateur</string>
+    <string name="title_no_resource_found">Aucune ressource trouvée</string>
+    <string name="discription_no_resource_found">Veuillez d\'abord lire la vidéo, et le bouton des ressources sera disponible une fois la ressource détectée.</string>
+    <string name="ads_powerd_by">Annonces alimentées par Screen Mirroring</string>
+</resources>

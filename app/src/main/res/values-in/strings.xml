@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Hubungkan perangkat</string>
+    <string name="discription_of_screen_mirroring">Berbagi layar seluler ke TV</string>
+
+    <string name="action_share"> Bagikan Sekarang</string>
+    <string name="action_rate"> Beri nilai kami</string>
+    <string name="action_more_apps"> Aplikasi Lainnya</string>
+    <string name="action_privacy_policy"> Kebijakan Privasi</string>
+    <string name="action_about_us"> Tentang kami</string>
+
+    <string name="action_next"> Berikutnya</string>
+    <string name="action_finish"> Selesai</string>
+
+    <string name="title_how_to_use"> Cara menggunakan</string>
+
+    <string name="help_1"> Pastikan ponsel dan TV Anda terhubung ke WiFi yang sama.</string>
+    <string name="help_2"> Aktifkan "Miracast Display" di TV dan Layar Nirkabel di ponsel Anda.</string>
+    <string name="help_3"> Klik tombol "Hubungkan perangkat" dan pilih perangkat yang Anda inginkan untuk menampilkan layar Anda.</string>
+
+    <string name="title_cancel"> Batal</string>
+
+    <string name="title_give_five_star"> Beri kami 5-Bintang</string>
+    <string name="rate_us_discription_1"> maukah Anda meluangkan waktu untuk memberi peringkat?</string>
+    <string name="rate_us_discription_2"> Ini tidak akan memakan waktu lebih dari satu menit.</string>
+    <string name="action_change_language">Ganti BAHASA</string>
+    <string name="title_tv_cast">TV Cast</string>
+    <string name="discription_tv_cast">Pastikan ponsel dan TV Anda terhubung ke Jaringan Wifi yang sama.</string>
+    <string name="stream_photos">Streaming Foto Anda</string>
+    <string name="stream_videos">Streaming Video Anda</string>
+    <string name="stream_audios">Streaming Musik Anda</string>
+    <string name="title_photos">Foto</string>
+    <string name="title_videos">Video</string>
+    <string name="title_audios">Musik</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Kesalahan</string>
+    <string name="action_stop">Berhenti</string>
+    <string name="video_error_media_load_timeout">Waktu pemuatan media habis</string>
+    <string name="video_error_server_unaccessible">Server media tidak dapat dijangkau</string>
+    <string name="video_error_unknown_error">Gagal memuat video</string>
+    <string name="connection_temp_lost">Koneksi ke perangkat transmisi terputus untuk sementara</string>
+    <string name="connection_recovered">Koneksi ke perangkat transmisi dipulihkan</string>
+    <string name="connection_lost_retry">Koneksi ke perangkat transmisi terputus untuk sementara.         Aplikasi mencoba memulihkan koneksi, coba lagi nanti</string>
+    <string name="connection_lost">Tidak ada koneksi ke perangkat transmisi</string>
+    <string name="failed_to_perform_action">Maaf, mengalami masalah saat menjalankan tugas yang Anda inginkan</string>
+    <string name="oops">Ups</string>
+    <string name="media_route_menu_title">Putar di &#8230;</string>
+    <string name="transition_image">gambar-transisi</string>
+    <string name="title_cast_devices">Perangkat Cast</string>
+    <string name="title_serching_for_devices">Mencari perangkat ...</string>
+    <string name="discription_of_serching_devices">Pastikan ponsel dan perangkat transmisi Anda terhubung ke WiFi yang sama.</string>
+    <string name="device_disconnect_successfully">Perangkat berhasil diputuskan</string>
+    <string name="device_connect_successfully">Perangkat berhasil terhubung</string>
+    <string name="stream_browser">Streaming Web Anda</string>
+    <string name="title_browser">Peramban</string>
+    <string name="title_no_resource_found">Sumber Daya Tidak Ditemukan</string>
+    <string name="discription_no_resource_found">​​Putar video terlebih dahulu, dan tombol sumber daya akan tersedia setelah sumber daya terdeteksi.</string>
+    <string name="ads_powerd_by">Iklan Diberdayakan oleh Screen Mirroring</string>
+</resources>

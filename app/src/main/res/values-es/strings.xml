@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Conectar dispositivo </string>
+    <string name="discription_of_screen_mirroring">Compartir pantalla móvil a TV</string>
+
+    <string name="action_share"> Compartir ahora </string>
+    <string name="action_rate"> Califícanos </string>
+    <string name="action_more_apps"> Más aplicaciones </string>
+    <string name="action_privacy_policy"> Política de privacidad </string>
+    <string name="action_about_us"> Acerca de nosotros </string>
+
+    <string name="action_next"> Siguiente </string>
+    <string name="action_finish"> Finalizar </string>
+
+    <string name="title_how_to_use"> Cómo usar </string>
+
+    <string name="help_1"> Asegúrese de que su teléfono y televisor estén conectados al mismo WiFi. </string>
+    <string name="help_2"> Habilite la "Pantalla Miracast" en su televisor y la Pantalla inalámbrica en su teléfono. </string>
+    <string name="help_3"> Haga clic en el botón "Conectar dispositivo" y elija el dispositivo en el que desea mostrar su pantalla. </string>
+
+    <string name="title_cancel"> Cancelar </string>
+
+    <string name="title_give_five_star"> Danos 5 estrellas </string>
+    <string name="rate_us_discription_1"> ¿le importaría tomarse un momento para calificarlo? </string>
+    <string name="rate_us_discription_2"> No tomará más de un minuto. </string>
+    <string name="action_change_language">Cambiar idioma</string>
+    <string name="title_tv_cast">TV Cast</string>
+    <string name="discription_tv_cast">Asegúrese de que su teléfono y TV estén conectados a la misma red Wifi.</string>
+    <string name="stream_photos">Transmite tus fotos</string>
+    <string name="stream_videos">Transmita sus videos</string>
+    <string name="stream_audios">Transmite tu música</string>
+    <string name="title_photos">Fotos</string>
+    <string name="title_videos">Videos</string>
+    <string name="title_audios">Música</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Error</string>
+    <string name="action_stop">Detener</string>
+    <string name="video_error_media_load_timeout">Se agotó el tiempo de espera para la carga de medios</string>
+    <string name="video_error_server_unaccessible">No se pudo acceder al servidor de medios</string>
+    <string name="video_error_unknown_error">Error al cargar el video</string>
+    <string name="connection_temp_lost">La conexión con el dispositivo de transmisión se perdió temporalmente</string>
+    <string name="connection_recovered">Se recupera la conexión con el dispositivo de transmisión</string>
+    <string name="connection_lost_retry">Se perdió temporalmente la conexión al dispositivo de transmisión.         La aplicación está intentando recuperar la conexión. Vuelve a intentarlo más tarde.</string>
+    <string name="connection_lost">No existe conexión con el dispositivo de transmisión</string>
+    <string name="failed_to_perform_action">Lo siento, tuve problemas para realizar la tarea que deseaba</string>
+    <string name="oops">Ups</string>
+    <string name="media_route_menu_title">Reproducir en &#8230;</string>
+    <string name="transition_image">transición-imagen</string>
+    <string name="title_cast_devices">Dispositivos de transmisión</string>
+    <string name="title_serching_for_devices">Buscando dispositivos ...</string>
+    <string name="discription_of_serching_devices">Asegúrate de que tu teléfono y tu dispositivo de transmisión estén conectados al mismo WiFi.</string>
+    <string name="device_disconnect_successfully">Dispositivo desconectado correctamente</string>
+    <string name="device_connect_successfully">Dispositivo conectado correctamente</string>
+    <string name="stream_browser">Transmita su Web</string>
+    <string name="title_browser">Navegador</string>
+    <string name="title_no_resource_found">​​No se encontraron recursos</string>
+    <string name="discription_no_resource_found">Primero reproduzca el video y el botón de recursos estará disponible después de que se detecte el recurso.</string>
+    <string name="ads_powerd_by">Anuncios impulsados ​​por Screen Mirroring</string>
+</resources>

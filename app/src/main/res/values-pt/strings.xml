@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Conectar dispositivo </string>
+    <string name="discription_of_screen_mirroring">Compartilhamento de tela do celular para TV</string>
+
+    <string name="action_share"> Compartilhe agora </string>
+    <string name="action_rate"> Avalie-nos </string>
+    <string name="action_more_apps"> Mais aplicativos </string>
+    <string name="action_privacy_policy"> Política de privacidade </string>
+    <string name="action_about_us"> Sobre nós </string>
+
+    <string name="action_next"> Próxima </string>
+    <string name="action_finish"> Concluir </string>
+
+    <string name="title_how_to_use"> Como usar </string>
+
+    <string name="help_1"> Certifique-se de que seu telefone e TV estejam conectados ao mesmo WiFi. </string>
+    <string name="help_2"> Ative o "Miracast Display" na TV e o Wireless Display no telefone. </string>
+    <string name="help_3"> Clique no botão "Conectar dispositivo" e escolha o dispositivo em que deseja exibir sua tela. </string>
+
+    <string name="title_cancel"> Cancelar </string>
+
+    <string name="title_give_five_star"> Dê-nos 5 estrelas </string>
+    <string name="rate_us_discription_1"> você se importaria de reservar um momento para avaliá-lo? </string>
+    <string name="rate_us_discription_2"> Não levará mais de um minuto. </string>
+    <string name="action_change_language">Mudar idioma</string>
+    <string name="title_tv_cast">Elenco de TV</string>
+    <string name="discription_tv_cast">Certifique-se de que seu telefone e TV estão conectados à mesma rede Wifi.</string>
+    <string name="stream_photos">Transmita suas fotos</string>
+    <string name="stream_videos">Transmita seus vídeos</string>
+    <string name="stream_audios">Transmita sua música</string>
+    <string name="title_photos">Fotos</string>
+    <string name="title_videos">Vídeos</string>
+    <string name="title_audios">Música</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Erro</string>
+    <string name="action_stop">Pare</string>
+    <string name="video_error_media_load_timeout">Tempo limite de carregamento de mídia esgotado</string>
+    <string name="video_error_server_unaccessible">Servidor de mídia não acessíve</string>
+    <string name="video_error_unknown_error">Falha ao carregar vídeo</string>
+    <string name="connection_temp_lost">A conexão com o dispositivo de transmissão foi temporariamente perdida</string>
+    <string name="connection_recovered">A conexão com o dispositivo de transmissão foi recuperada</string>
+    <string name="connection_lost_retry">A conexão com o dispositivo de transmissão foi temporariamente perdida.         O aplicativo está tentando recuperar a conexão, tente novamente mais tarde</string>
+    <string name="connection_lost">Não existe nenhuma conexão com o dispositivo de transmissão</string>
+    <string name="failed_to_perform_action">Desculpe, tive problemas ao executar a tarefa que você queria</string>
+    <string name="oops">Ops</string>
+    <string name="media_route_menu_title">Tocar em &#8230;</string>
+    <string name="transition_image">imagem de transiçã</string>
+    <string name="title_cast_devices">Dispositivos de elenco</string>
+    <string name="title_serching_for_devices">Procurando dispositivos ...</string>
+    <string name="discription_of_serching_devices">Certifique-se de que seu telefone e dispositivo de transmissão estejam conectados ao mesmo WiFi.</string>
+    <string name="device_disconnect_successfully">Dispositivo desconectado com sucesso</string>
+    <string name="device_connect_successfully">Dispositivo conectado com sucesso</string>
+    <string name="stream_browser">Transmita sua web</string>
+    <string name="title_browser">Navegador</string>
+    <string name="title_no_resource_found">Nenhum recurso encontrado</string>
+    <string name="discription_no_resource_found">​​Reproduza o vídeo primeiro e o botão de recursos estará disponível depois que o recurso for detectado.</string>
+    <string name="ads_powerd_by">Anúncios com tecnologia de espelhamento de tela</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':youtubeExtractor'
+include ':app'
+rootProject.name = "Screen Mirroring"

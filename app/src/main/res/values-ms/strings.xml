@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Sambungkan peranti </string>
+    <string name="discription_of_screen_mirroring">Perkongsian skrin mudah alih ke TV</string>
+
+    <string name="action_share"> Kongsi Sekarang </string>
+    <string name="action_rate"> Nilaikan kami </string>
+    <string name="action_more_apps"> Lebih Banyak Aplikasi </string>
+    <string name="action_privacy_policy"> Dasar Privasi </string>
+    <string name="action_about_us"> Tentang kami </string>
+
+    <string name="action_next"> Seterusnya </string>
+    <string name="action_finish"> Selesai </string>
+
+    <string name="title_how_to_use"> Cara menggunakan </string>
+
+    <string name="help_1"> Pastikan telefon dan tv anda tersambung ke WiFi yang sama. </string>
+    <string name="help_2"> Aktifkan "Miracast Display" di TV anda dan Wireless Display pada telefon anda. </string>
+    <string name="help_3"> Klik butang "Sambungkan peranti" dan pilih peranti yang ingin anda tampilkan pada layar. </string>
+
+    <string name="title_cancel"> Batal </string>
+
+    <string name="title_give_five_star"> Beri kami 5-Bintang </string>
+    <string name="rate_us_discription_1"> adakah anda keberatan meluangkan masa untuk menilainya? </string>
+    <string name="rate_us_discription_2"> Tidak akan memakan masa lebih dari satu minit. </string>
+    <string name="action_change_language">Tukar bahasa</string>
+    <string name="title_tv_cast">Cast TV</string>
+    <string name="discription_tv_cast">Pastikan telefon dan TV anda disambungkan ke Rangkaian Wifi yang sama.</string>
+    <string name="stream_photos">Alirkan Foto Anda</string>
+    <string name="stream_videos">Streaming Video Anda</string>
+    <string name="stream_audios">Alirkan Muzik Anda</string>
+    <string name="title_photos">Foto</string>
+    <string name="title_videos">Video</string>
+    <string name="title_audios">Muzik</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Ralat</string>
+    <string name="action_stop">Berhenti</string>
+    <string name="video_error_media_load_timeout">Masa muat media dimatikan</string>
+    <string name="video_error_server_unaccessible">Pelayan media tidak dapat dijangkau</string>
+    <string name="video_error_unknown_error">Gagal memuatkan vide</string>
+    <string name="connection_temp_lost">Sambungan ke peranti cast terputus buat sementara waktu</string>
+    <string name="connection_recovered">Sambungan ke peranti pelakon pulih</string>
+    <string name="connection_lost_retry">Sambungan ke peranti pemutus terputus buat sementara waktu.         Aplikasi cuba memulihkan sambungan, sila cuba sebentar lagi</string>
+    <string name="connection_lost">Tidak ada sambungan ke peranti cast</string>
+    <string name="failed_to_perform_action">Maaf, menghadapi masalah semasa menjalankan tugas yang anda mahukan</string>
+    <string name="oops">Ups</string>
+    <string name="media_route_menu_title">Main di &#8230;</string>
+    <string name="transition_image">transisi-gambar</string>
+    <string name="title_cast_devices">Cast Peranti</string>
+    <string name="title_serching_for_devices">Mencari peranti ...</string>
+    <string name="discription_of_serching_devices">Pastikan telefon dan peranti transmisi anda disambungkan ke WiFi yang sama.</string>
+    <string name="device_disconnect_successfully">Peranti berjaya diputuskan</string>
+    <string name="device_connect_successfully">Peranti berjaya disambungkan</string>
+    <string name="stream_browser">Alirkan Web Anda</string>
+    <string name="title_browser">Penyemak Imbas</string>
+    <string name="title_no_resource_found">Tiada Sumber Ditemukan</string>
+    <string name="discription_no_resource_found">Sila mainkan video terlebih dahulu, dan butang sumber akan tersedia setelah sumber dikesan.</string>
+    <string name="ads_powerd_by">Iklan Dikendalikan oleh Pencerminan Skrin</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_how_to_use"
+            android:icon="@drawable/ic_help"
+            android:title="@string/title_how_to_use" />
+
+        <item
+            android:id="@+id/nav_change_language"
+            android:icon="@drawable/ic_change_language"
+            android:title="@string/action_change_language" />
+    </group>
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/action_share" />
+
+    <item
+        android:id="@+id/nav_rate"
+        android:icon="@drawable/ic_rate_us"
+        android:title="@string/action_rate" />
+
+    <item
+        android:id="@+id/nav_more_app"
+        android:icon="@drawable/ic_more"
+        android:title="@string/action_more_apps" />
+
+    <item
+        android:id="@+id/nav_privacy_policy"
+        android:icon="@drawable/ic_privacy_policy"
+        android:title="@string/action_privacy_policy" />
+
+    <item
+        android:id="@+id/nav_about_us"
+        android:icon="@drawable/ic_about_us"
+        android:title="@string/action_about_us" />
+</menu>

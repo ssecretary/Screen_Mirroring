@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Screen Mirroring "</string>
+
+    <string name="title_screen_mirroring"> Gerät verbinden</string>
+    <string name="discription_of_screen_mirroring">Mobile Bildschirmfreigabe zum Fernseher</string>
+
+    <string name="action_share"> Jetzt teilen</string>
+    <string name="action_rate"> Bewerten Sie uns</string>
+    <string name="action_more_apps"> Weitere Apps</string>
+    <string name="action_privacy_policy"> Datenschutzrichtlinie</string>
+    <string name="action_about_us"> Über uns</string>
+
+    <string name="action_next"> Weiter</string>
+    <string name="action_finish"> Beenden Sie</string>
+
+    <string name="title_how_to_use"> Verwendung von</string>
+
+    <string name="help_1"> Stellen Sie sicher, dass Ihr Telefon und Ihr Fernseher mit demselben WLAN verbunden sind.</string>
+    <string name="help_2"> Aktivieren Sie die "Miracast-Anzeige" auf Ihrem Fernseher und die drahtlose Anzeige auf Ihrem Telefon.</string>
+    <string name="help_3"> Klicken Sie auf die Schaltfläche "Gerät verbinden" und wählen Sie das Gerät aus, auf dem Sie Ihren Bildschirm anzeigen möchten.</string>
+
+    <string name="title_cancel"> Abbrechen</string>
+
+    <string name="title_give_five_star"> Geben Sie uns 5-Sterne</string>
+    <string name="rate_us_discription_1"> würde es Ihnen etwas ausmachen, sich einen Moment Zeit zu nehmen, um es zu bewerten?</string>
+    <string name="rate_us_discription_2"> Es dauert nicht länger als eine Minute.</string>
+    <string name="action_change_language">Sprache ändern</string>
+    <string name="title_tv_cast">TV-Besetzung</string>
+    <string name="discription_tv_cast">Bitte stellen Sie sicher, dass Ihr Telefon und Ihr Fernseher mit demselben WLAN-Netzwerk verbunden sind.</string>
+    <string name="stream_photos">Streamen Sie Ihre Fotos</string>
+    <string name="stream_videos">Streame deine Videos</string>
+    <string name="stream_audios">Streame deine Musik</string>
+    <string name="title_photos">Fotos</string>
+    <string name="title_videos">Videos</string>
+    <string name="title_audios">Musik</string>
+    <string name="action_ok">OK</string>
+    <string name="action_error">Fehler</string>
+    <string name="action_stop">Stop</string>
+    <string name="video_error_media_load_timeout">Zeitüberschreitung beim Laden von Medien</string>
+    <string name="video_error_server_unaccessible">Medienserver war nicht erreichbar</string>
+    <string name="video_error_unknown_error">Fehler beim Laden des Videos</string>
+    <string name="connection_temp_lost">Die Verbindung zum Cast-Gerät wird vorübergehend unterbrochen</string>
+    <string name="connection_recovered">Die Verbindung zum Cast-Gerät wird wiederhergestell</string>
+    <string name="connection_lost_retry">Die Verbindung zum Cast-Gerät wurde vorübergehend unterbrochen.         Die Anwendung versucht, die Verbindung wiederherzustellen. Bitte versuchen Sie es später erneut</string>
+    <string name="connection_lost">Es besteht keine Verbindung zum Cast-Gerät</string>
+    <string name="failed_to_perform_action">Es sind leider Probleme beim Ausführen der gewünschten Aufgabe aufgetreten</string>
+    <string name="oops">Ups</string>
+    <string name="media_route_menu_title">Spielen Sie auf &#8230;</string>
+    <string name="transition_image">Übergangsbild</string>
+    <string name="title_cast_devices">Cast Devices</string>
+    <string name="title_serching_for_devices">Nach Geräten suchen ...</string>
+    <string name="discription_of_serching_devices">Stellen Sie sicher, dass Ihr Telefon und Ihr Cast-Gerät mit demselben WLAN verbunden sind.</string>
+    <string name="device_disconnect_successfully">Gerät erfolgreich getrennt</string>
+    <string name="device_connect_successfully">Gerät erfolgreich verbunden</string>
+    <string name="stream_browser">Streamen Sie Ihr Web</string>
+    <string name="title_browser">Browser</string>
+    <string name="title_no_resource_found">Keine Ressourcen gefunden</string>
+    <string name="discription_no_resource_found">Bitte spielen Sie zuerst das Video ab. Die Schaltfläche \"Ressourcen\" ist verfügbar, nachdem die Ressource erkannt wurde.</string>
+    <string name="ads_powerd_by">Anzeigen mit Bildschirmspiegelung</string>
+</resources>

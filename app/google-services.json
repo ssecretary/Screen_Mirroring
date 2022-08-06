@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536055169348",
+    "project_id": "screen-mirroring-63a2f",
+    "storage_bucket": "screen-mirroring-63a2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536055169348:android:f07af9c36883d4d85b1711",
+        "android_client_info": {
+          "package_name": "com.screen.mirroring.casttotv.tv.cast.screencast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536055169348-lm4ue20rn2k261oo1rvm2o227lk9qn92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVV6QAWXCyOnjGeNC2xEOeh77aRzg1CfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536055169348-lm4ue20rn2k261oo1rvm2o227lk9qn92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
